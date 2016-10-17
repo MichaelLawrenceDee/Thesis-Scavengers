@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{36F34D8E-92F4-3212-2F41-72442A16D49F}") = "Thesis Scavengers", "Assembly-CSharp.csproj", "{A7BC53C7-55FC-F5B4-968B-94B7D5342E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BC53C7-55FC-F5B4-968B-94B7D5342E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BC53C7-55FC-F5B4-968B-94B7D5342E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BC53C7-55FC-F5B4-968B-94B7D5342E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BC53C7-55FC-F5B4-968B-94B7D5342E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
